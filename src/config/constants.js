@@ -1,0 +1,4 @@
+module.exports = {
+    NUMERO_AUTORIZADO: "554187097009"
+    //NUMERO_AUTORIZADO: "554197260215"
+  };
